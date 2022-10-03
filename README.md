@@ -38,3 +38,5 @@
 <a href="https://www.linkedin.com/in/jadson-jose-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/71b75421-27cf-49b4-baf2-b301166ba622/deploy-status)](https://app.netlify.com/sites/blogtechnology/deploys)
