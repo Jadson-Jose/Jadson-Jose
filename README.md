@@ -39,6 +39,6 @@
 
 </div>
 
-<div>
+
   [![Netlify Status](https://api.netlify.com/api/v1/badges/bf1440e7-43d3-44bc-9faf-8f5729677218/deploy-status)](https://app.netlify.com/sites/blogtechnology/deploys)
-</div>
+
