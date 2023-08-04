@@ -7,6 +7,7 @@
 - 💬 E-mail: jadsonjosesilva@gmail.com
 - 📫 Portfolio: https://jadson-portifolio.netlify.app/
 - 😄 Meu blog sobre tecnologia: https://blogtechnology.netlify.app/
+- 📫 Site feito por mim: https://petsemfoco.com.br/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadson-Jose&show_icons=true&theme=radical)
 
